@@ -1,0 +1,6 @@
+{
+  "name": "AURA",
+  "description": "Adaptive Universal Resonance Attire - Your AI-powered personal stylist and digital wardrobe operating system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
